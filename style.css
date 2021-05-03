@@ -1,0 +1,19 @@
+.nav-color {
+  background-color: #f8f5f1;
+  padding: 20px;
+}
+a {
+  font-size: 28px;
+  padding: 10px;
+  text-decoration: none;
+}
+a:visited {
+  color: black;
+}
+a:hover {
+  color: #02475e;
+  background-color: #aad8d3;
+}
+a:active {
+  color: #23049d;
+}
